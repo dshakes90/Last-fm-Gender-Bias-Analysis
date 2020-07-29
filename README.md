@@ -2,9 +2,10 @@
 Python Jupyter notebooks to accompany the paper 'Exploring Artist Gender Bias in Music Recommendation' submitted to ImpactRS2020. 
 
 ## Dataset Downloads
-The following experiments use as a baseline, the following datasets:
-* Celma's LFM-360K
-* Schedl's LFM-1b
+Download and extract the following baseline datasets into the working dir which this repo was cloned: 
+
+* Celma's LFM-360K: http://ocelma.net/MusicRecommendationDataset/lastfm-360K.html
+* Schedl's LFM-1b: http://www.cp.jku.at/datasets/LFM-1b/
 
 We develop a fuzzymatching based methodology to retrieve artist gender meta-data from a locally configured version of the MusicBrainz database. Code repositories are made openly available at the following link: https://github.com/dshakes90/LFM-1b-MusicBrainz-Gender-Wrangler
 
